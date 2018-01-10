@@ -5,4 +5,4 @@ Une demo de git qui se passe bien
 
 Maintenant je modifie sur github!
 
-Et encore une modification en local :)
+Et encore une modification en local :) et c'est cool!!
